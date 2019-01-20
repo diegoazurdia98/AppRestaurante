@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppRestaurante</string>
+    <string name="nom_res">Restaurante Genérico</string>
+    <string name="but_menu">Menú</string>
+    <string name="but_pedido">Pedido</string>
+    <string name="but_inicio">Inicio</string>
+    <string name="textoMenu">Menu</string>
+    <string name="CleanPed">Limpiar Pedido</string>
+    <string name="MakePed">Hacer Pedido</string>
+    <string name="txtPedido">Pedido</string>
+</resources>
